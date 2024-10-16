@@ -1,0 +1,52 @@
+#produtos{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+#titleone{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    text-align: center;
+}
+#ra{
+    color: black;
+}
+.balde{
+    border: 6px solid black;
+    border-radius: 20px;
+
+}
+.esconder{
+    display: none;
+    margin: 10px;
+    
+}
+.buy{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+    font-size: 30px;
+    border-radius: 10px;      
+}
+.about{
+    color: white;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: initial;
+    font-size: 20px;
+}
+/* 
+metodo de centralizar div 
+.centralizar{
+    position: absolute;
+    top: 50%;
+    left: 50%;    
+    transform: translate(50% -50%);
+} */
+.centralizar{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
